@@ -1,2 +1,0 @@
-# NM-PROJECT
-NM-PROJEC Description
